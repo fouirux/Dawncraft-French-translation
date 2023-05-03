@@ -12,3 +12,6 @@ Sachez que ce fut assez éprouvant à traduire certains mots et certaines tournu
 
 N'hésitez pas à faire des retours ainsi qu'à proposez d'éventuelles traductions que vous aimeriez voir sur le modpack !
 Mon discord si besoin: Fouirux#3617
+
+Le modpack Dawncraft: https://www.curseforge.com/minecraft/modpacks/dawn-craft
+Le Discord de Dawncraft: https://discord.gg/vCCmJr5RbN
