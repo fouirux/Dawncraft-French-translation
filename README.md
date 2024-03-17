@@ -1,4 +1,4 @@
-# Dawncraft-French-translation
+# Dawncraft-French-translation WORK with 2.0 version
 Traduction Française pour le modpack Minecraft Dawncraft
 Pour installer: glisser TOUT dans le .minecraft situer dans C:\Users\"UTILISATEUR"\curseforge\minecraft\Instances\DawnCraft - An Adventure RPG Modpack
 Ensuite il vous suffit d'allumez le jeux et d'activer le ressourcepack français qui est désormais dans votre liste de vos ressourcepack
